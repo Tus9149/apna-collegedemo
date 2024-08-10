@@ -1,2 +1,2 @@
 # apna-collegedemo
-first github project
+first git repository
